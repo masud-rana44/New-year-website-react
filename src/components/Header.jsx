@@ -14,7 +14,7 @@ const Header = () => {
       randomised words"
           extraClass="mb-lg"
         />
-        <Button />
+        <Button text="Contact Us" />
       </div>
     </header>
   );

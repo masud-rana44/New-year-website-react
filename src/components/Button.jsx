@@ -1,7 +1,7 @@
-const Button = () => {
+const Button = ({ text }) => {
   return (
     <a href="#" className="btn">
-      Contact Us
+      {text}
     </a>
   );
 };
