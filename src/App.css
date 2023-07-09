@@ -30,7 +30,7 @@ section {
 .header {
   position: relative;
   min-height: 100vh;
-  background-image: url("../images/banner/banner3.png");
+  background-image: url("../src/assets/images/banner/banner3.png");
   background-size: cover;
 }
 
@@ -147,7 +147,7 @@ section {
   padding: 60px 64px;
   border-radius: 8px;
   background-image: linear-gradient(to right, #005fac, rgba(0, 95, 172, 0)),
-    url("../images/watch.png");
+    url("../src/assets/images/watch.png");
   background-position: center;
   background-size: cover;
 }
