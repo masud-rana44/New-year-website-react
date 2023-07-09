@@ -1,7 +1,13 @@
-import React from "react";
+import Future from "./Future";
+import Subscribe from "./Subscribe";
 
 const Footer = () => {
-  return <div>Footer</div>;
+  return (
+    <footer className="footer">
+      <Future />
+      <Subscribe />
+    </footer>
+  );
 };
 
 export default Footer;
